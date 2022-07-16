@@ -1,1 +1,1 @@
-# Color-changer
+This is a simple vanilla Javascript Project
